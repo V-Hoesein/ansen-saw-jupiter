@@ -1,0 +1,16 @@
+Model: rbf
+Akurasi: 0.8400
+Precision: 0.8055
+Recall: 0.8400
+F1-Score: 0.8124
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     negatif       0.78      0.47      0.59        38
+      netral       0.00      0.00      0.00         7
+     positif       0.85      0.97      0.90       155
+
+    accuracy                           0.84       200
+   macro avg       0.54      0.48      0.50       200
+weighted avg       0.81      0.84      0.81       200

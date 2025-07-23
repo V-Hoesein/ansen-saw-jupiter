@@ -1,0 +1,16 @@
+Model: poly
+Akurasi: 0.7750
+Precision: 0.6006
+Recall: 0.7750
+F1-Score: 0.6768
+
+Classification Report:
+              precision    recall  f1-score   support
+
+     negatif       0.00      0.00      0.00        38
+      netral       0.00      0.00      0.00         7
+     positif       0.78      1.00      0.87       155
+
+    accuracy                           0.78       200
+   macro avg       0.26      0.33      0.29       200
+weighted avg       0.60      0.78      0.68       200
